@@ -1,8 +1,9 @@
-# React plus Firebase User Authentication
+# React plus Firebase Google Drive Clone
 
-An user authentication app with **sign up**, **log in** and **password reset** functionalities. **Updating email address and password** is also possible. See the app in action [here](https://user-authentication-3d61b.web.app/).
+A farely basic clone of google drive built with react and firebase. **Adding files and folders** inside different folders, **downloading files** are possible, however, many advanced features of google drive are missing. User authentication is enabled. See the app in action [here](https://noob-drive.web.app/).
 
 ---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
